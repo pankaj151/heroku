@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "apiai": "^3.0.3",
-    "async": "^2.0.0",
+    "async": "^2.6.4",
     "body-parser": "^1.15.2",
     "express": "^4.13.3",
     "html-entities": "^1.2.0",
